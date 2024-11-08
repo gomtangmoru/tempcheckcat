@@ -1,0 +1,20 @@
+{
+  "hello": {
+    "response": "{name} 안녕하다냥"
+  },
+  "logging": {
+    "error": {
+        "message": "에러가 발생했다냥",
+        "code": "에러 코드는 {code}다냥",
+        "thisisnotmainfile": "이 파일은 메인 파일이 아니다냥"
+    },
+    "info": {
+      "normal" : "정보",
+      "nyan" : "정보다냥"
+    },
+    "warn": {
+      "normal" : "경고",
+      "nyan" : "경보다냥"
+    }
+  }
+}
